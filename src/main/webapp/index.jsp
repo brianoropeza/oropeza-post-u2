@@ -1,3 +1,3 @@
 <%
-response.sendRedirect(request.getContextPath() + "/tareas");
+response.sendRedirect(request.getContextPath() + "/catalogo");
 %>
